@@ -12,3 +12,5 @@ Run these commands:
 `npm install`
 
 `node app.js`
+
+testing using docker-compose and deploying
