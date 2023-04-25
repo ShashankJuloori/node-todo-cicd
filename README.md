@@ -13,5 +13,3 @@ Run these commands:
 
 `node app.js`
 
-testing using docker-compose and deploying
-testing for docker push using env variable
